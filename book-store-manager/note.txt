@@ -1,0 +1,3 @@
+muốn add lần đầu tiên ở máy mới cần thêm khóa ssh trên web
+git clone link
+ghi đè git push -f origin master
